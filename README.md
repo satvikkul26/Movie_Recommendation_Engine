@@ -1,10 +1,10 @@
-# 🎬ITS MY CHOICE - Movie Recommendation System
+# ITS MY CHOICE - Movie Recommendation System
 
 **ITS MY CHOICE** is a Content-Based Movie Recommendation System built using Python, Scikit-Learn, and Streamlit. It calculates similarities between movies using TF-IDF vectorization and cosine similarity, suggesting top recommendations based on user-selected titles.
 
 ---
 
-## 🚀Features
+## Features
 
 - **Extensive Database**: Recommends from a collection of over 45,000+ unique movies.
 - **Content-Based Filtering**: Utilizes TF-IDF vectorization on movie metadata and cosine similarity metrics.
@@ -14,7 +14,7 @@
 ---
 
 
-## ⚙️How to Run
+## How to Run
 1. **Install Dependencies**:
    ```bash
    pip install streamlit pandas scikit-learn
