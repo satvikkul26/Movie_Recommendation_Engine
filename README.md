@@ -26,6 +26,6 @@
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed by **Satvik**.
